@@ -2,8 +2,7 @@
 <section>
     <h1>Agile Methoden</h1>
     <h2>XP, Kanban ,Scrump</h2>
-</section>
----   
+</section>   
  
 <section>
     <h2>Übersicht</h2>
@@ -16,9 +15,9 @@
 
 - Was ist XP 
 </section>
----
+
 <img src="./Bilder/baum.png" alt="Bild">
----
+
     
 <section >
     <h2>Definition agile Methoden </h2>
@@ -29,7 +28,7 @@
 
   - Einbindung Kundenfeedback
 </section >
----
+
 
 <section>
     <h2>Vorteile agile Methoden</h2>
@@ -41,7 +40,6 @@
   - Fehlerer schneller beheben
     
 </section>
----
 
 <section>
     <h2>Geschichte</h2>
@@ -54,7 +52,6 @@
  
   - Projekte abgeändert oder aufgegeben
 </section>
----
 
 <section>
     <h2>Werte agiles Manifest</h2>
@@ -67,7 +64,6 @@
   
   - Reagieren auf Veränderung wichtiger als	das Befolgen eines Plans
 </section>
----
 
 <section>
     <h2>Prinzipien agiles Manifest</h2>
@@ -84,7 +80,6 @@
 
 6.	Informationen werden am effektivsten durch persönliche Gespräche vermittelt
 </section>
----
     
 <section>
     <h2>Kanban</h2>
@@ -95,7 +90,6 @@
 
   - Kann sehr leicht integriert werden
 </section>
----
 
 <section>
     <h2>Geschichte</h2>
@@ -109,7 +103,6 @@
     - IBM, Sprint, Motorola, Microsoft
     - eigene Firma 2008
 </section>
----
 
 <section>
     <h2>Prinzipien agiles Manifest</h2>
@@ -121,7 +114,6 @@
 
   - Weniger Widerstand durch Grundprinzipien
 </section>
----
 
 <section>
     <h2>Grundprinzipien</h2>
@@ -134,7 +126,6 @@
   
   - Alle Ebenen sollen sich beteiligen      
 </section>
----
 
 <section>
     <h2>Übersicht Praktiken</h2>
@@ -151,19 +142,22 @@
   
   - Verbesserungen durch Modelle
 </section>
----
 
 <section>
     <h2>Visualisierung</h2>
 
   - Task-Board erstellen
+  
   - Arbeitsfluss visualisieren
+  
   - Wertschätzungskette erzeugen
+  
   - Karten mit Aufgaben
+  
   - Klare Einsicht der Aufgabenverteilung 
+  
   - Fehler schnell erkennbar
 </section>
----
 
 <section>
     <h2>Limitierung</h2>
@@ -174,7 +168,6 @@
 
   - Optimale Beschränkung (WIP) durch Erfahrung 
 </section>
----
 
 <section>
     <h2>Arbeitsfluss messen</h2>
@@ -190,7 +183,6 @@
   - Arten von Trackings 
    
 </section>
----
 
 <section>
     <h2>Explizite Regeln</h2>
@@ -203,7 +195,6 @@
 
   - Aufgabenverteilung       
 </section>
----
 
 <section>
     <h2>Feedbackzyklen</h2>
@@ -216,29 +207,23 @@
   
   - Release-Meetings
 </section>
----
 
 <section>
-        <h2>Modelle</h2>
+    <h2>Modelle</h2>
 
 - Wertstrom
   
 - Engpasstheorie
   
 - Verbesserung der Prozesse
-
 </section>
 
-
-    ---
-<section>
-<img src="./Bilder/Taskboard.png" alt="">
-        
+<section> 
+<img src="./Bilder/Taskboard.png" alt="">   
 </section>
 
-    ---
 <section>
-        <h2>Vorteile</h2>
+    <h2>Vorteile</h2>
 
 - Hohe Transparenz über Fortschritt
 
@@ -246,14 +231,11 @@
 
 - Unzählige Einsatzgebiete
            
-- Wenig Widerstand
-
-        
+- Wenig Widerstand     
 </section>
 
-    ---
 <section>
-        <h2>Scrum</h2>
+    <h2>Scrum</h2>
            
 - Jeff Sutherland 
 
@@ -261,14 +243,11 @@
 
 - 1995 erstmals vorgestellt
 
-- Ständige Weiterentwicklung
-
-        
+- Ständige Weiterentwicklung      
 </section>
 
-    ---
 <section>
-        <h2>Prinzipien Scrum</h2>
+    <h2>Prinzipien Scrum</h2>
 
 - Vision
   
@@ -281,11 +260,8 @@
 - Autonomie
   
 - Prozesstreue
-
-
 </section>
 
-    ---
 <section>
     <h2>Definition</h2>
            
@@ -297,11 +273,8 @@
   
 - Feste Rollen 
   
-- Geplante Events
-
-        
+- Geplante Events      
 </section>
----
 
 <section>
     <h2>Rollen</h2>
@@ -310,11 +283,8 @@
   
 - Scrum Master 
   
-- Scrum Team
-
-        
+- Scrum Team     
 </section>
----
 
 <section>
     <h2>Events</h2>
@@ -329,12 +299,10 @@
   
 - Sprint-Retrospektive
 </section>
----
 
 <section>
 <img src="./Bilder/Sprint.jpg" alt="">
 </section>
----
 
 <section>
     <h2>XP Geschichte</h2>
@@ -347,14 +315,13 @@
   
 - 1997 C3 Projekt Daimler Chrysler
 </section>
----
+
 <section>
 
 *“XP is a lightweight methodology for small to medium sized teams developing software in the face of vague or rapidly changing requirements.”*
 
 Kent Beck
 </section>
----
 
 <section>
     <h2>Was ist XP?</h2>
@@ -367,7 +334,6 @@ Kent Beck
   
 - Änderungen jederzeit möglich
 </section>
----
 
 <section>
     <h2>Werte</h2>
@@ -382,13 +348,11 @@ Kent Beck
   
 - Respekt      
 </section>
----
 
 <section>
     <h2>Prinzipien</h2>
 <img src="./Bilder/XP-Evolution-Prinzipien.png" alt="bild">
 </section>
----
 
 <section>
     <h2>Praktiken</h2>
@@ -405,7 +369,6 @@ Kent Beck
   
 - Refactoring
 </section>
----
 
 <section>
     <h2>Events</h2>
@@ -431,9 +394,7 @@ Kent Beck
 - On-site customer
   
 - Coding standards
-
 </section>
----
 
 <section>
     <h2>Team</h2>
@@ -446,7 +407,6 @@ Kent Beck
   
 - Projektleiter
 </section>
----
 
 <section>
     <h2>Events</h2>
@@ -461,7 +421,6 @@ Kent Beck
   
 - Sprint-Retrospektive
 </section>
----
 
 <section>
     <h2>Planung</h2>
@@ -474,7 +433,6 @@ Kent Beck
   
 - Aufwandsabschätzung
 </section>
----
 
 <section>
     <h2>Entwicklung und Abschluss</h2>
@@ -487,8 +445,7 @@ Kent Beck
   
 - Feedback 
 </section>
----
-
+ 
 <section>
     <h2>Zusammenfassung</h2>
 
@@ -502,7 +459,7 @@ Kent Beck
   
 - Spaß wird gefördert
 </section>
----
+
 <section>
 <img src="./Bilder/statistik2.png" alt="bild">
 </section>
