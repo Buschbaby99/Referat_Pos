@@ -1,9 +1,8 @@
-
 <section>
-    <h1>Agile Methoden</h1>
-    <h2>XP, Kanban ,Scrump</h2>
-</section>   
- 
+#Agile Methoden
+##XP, Kanban and Scrum   
+</section>
+
 <section>
     <h2>Übersicht</h2>
     
