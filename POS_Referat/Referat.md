@@ -7,19 +7,19 @@
 <section>
     <h2>Übersicht</h2>
     
-- Was sind agile Methoden 
+- [Was sind agile Methoden](#sec1)
 
-- Was ist Scrump
+- [Was ist Kanban](#sec3)
+  
+- [Was ist Scrump](#sec2)
 
-- Was ist Kanban 
-
-- Was ist XP 
+- [Was ist XP](#sec4) 
 </section>
 
 <img src="./Bilder/baum.png" alt="Bild">
 
     
-<section >
+<section name="sec1">
     <h2>Definition agile Methoden </h2>
     
   - Schnelleres und effizienteres Arbeiten in kleinen Teams
@@ -81,7 +81,7 @@
 6.	Informationen werden am effektivsten durch persönliche Gespräche vermittelt
 </section>
     
-<section>
+<section name="sec3">
     <h2>Kanban</h2>
            
   - Anerkanntes Vorgehensmodel
@@ -95,12 +95,17 @@
     <h2>Geschichte</h2>
         
   - Taiichi Ohno
+  
       - 1947 Toyota-Produktsystem
+  
       - Einführung Pull-Hol Prinzip
 
   - David J Anderson
+  
     - CEO School of Management
+  
     - IBM, Sprint, Motorola, Microsoft
+  
     - eigene Firma 2008
 </section>
 
@@ -234,7 +239,7 @@
 - Wenig Widerstand     
 </section>
 
-<section>
+<section name="sec2">
     <h2>Scrum</h2>
            
 - Jeff Sutherland 
@@ -304,7 +309,7 @@
 <img src="./Bilder/Sprint.jpg" alt="">
 </section>
 
-<section>
+<section name="sec4">
     <h2>XP Geschichte</h2>
 
 - Kent Beck
