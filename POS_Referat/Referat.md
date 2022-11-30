@@ -15,7 +15,7 @@
 
 - [Was ist XP](#sec4) 
 
-<hr size="1px">
+<hr size="0.2px">
 </section>
 
 <img src="./Bilder/baum.png" alt="Bild">
