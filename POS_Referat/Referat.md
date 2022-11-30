@@ -14,7 +14,7 @@
 - [Was ist Scrum](#sec2)
 
 - [Was ist XP](#sec4) 
----
+___
 </section>
 
 <img src="./Bilder/baum.png" alt="Bild">
