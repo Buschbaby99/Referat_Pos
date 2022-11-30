@@ -14,7 +14,6 @@
 - [Was ist Scrum](#sec2)
 
 - [Was ist XP](#sec4)
-<hr height="10px">
 
 </section>
 
