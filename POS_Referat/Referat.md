@@ -105,14 +105,17 @@
   
     - IBM, Sprint, Motorola, Microsoft
   
-    - eigene Firma 2008
+    - Autor
 </section>
 
 <section>
     <h2>Prinzipien agiles Manifest</h2>
-  - Agiler Ansatz Prozesse zu optimieren
+  
+  - Jap. Kan bedeutet Karte
 
-  - Keine „echte“ agile Methode
+  - Jap. Ban bedeutet Tafel
+
+  - Agiler Ansatz Prozesse zu optimieren
       
   - Verbesserung durch kleine Schritte
 
@@ -122,9 +125,9 @@
 <section>
     <h2>Grundprinzipien</h2>
            
-  - Abschluss der bestehenden Prozesse
+  - Abschluss bestehender Prozesse
   
-  - Immer auf den technisch neuesten Stand bleiben 
+  - Schrittweise Veränderung verfolgen 
   
   - Respektiert bestehende Prozesse bzw. Rollen
   
@@ -153,8 +156,6 @@
   - Task-Board erstellen
   
   - Arbeitsfluss visualisieren
-  
-  - Wertschätzungskette erzeugen
   
   - Karten mit Aufgaben
   
