@@ -11,9 +11,10 @@
 
 - [Was ist Kanban](#sec3)
   
-- [Was ist Scrump](#sec2)
+- [Was ist Scrum](#sec2)
 
 - [Was ist XP](#sec4) 
+---
 </section>
 
 <img src="./Bilder/baum.png" alt="Bild">
